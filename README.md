@@ -1,16 +1,24 @@
-## Hi there 👋
+# ## Oiii eu sou a Caio martins, Desenvolvesor de Software!
+<div> 
+  <a href="https:---" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https:---" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "----"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="inkedin.com/in/caio-martins-5392261b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div
+  
+![Caio martins GitHub stats](https://github-readme-stats.vercel.app/api?username=mnscmart&show_icons=true&theme=dracula)
 
-<!--
-**mnscmart/mnscmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias que eu uso no meu dia dia 
 
-Here are some ideas to get you started:
+<div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="caio-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="caio-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="caio-pytnon" height="30" widt"40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whiteimg">
+   <img align="center" alt="caio-kotlin" height="30" widt"40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt="caio-java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  
+  
+  
+</div>
+
