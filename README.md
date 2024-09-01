@@ -5,8 +5,9 @@
   <a href = "----"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="inkedin.com/in/caio-martins-5392261b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div
-  
-![Caio martins GitHub stats](https://github-readme-stats.vercel.app/api?username=mnscmart&show_icons=true&theme=dracula)
+
+  | <a href="https://github.com/mnscmart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mnscmart&show_icons=true&include_all_commits=true&theme=dark=true" alt=" caio martins github stats" /></a> | <a href="https://github.com/mnscmart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnscmart&layout=compact&theme=dracula=true" /></a> |
+| ------------- | ------------- |
 
 ### Tecnologias que eu uso no meu dia dia 
 
