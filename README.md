@@ -18,7 +18,7 @@
   <img align="center" alt="caio-pytnon" height="30" widt"40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whiteimg">
    <img align="center" alt="caio-kotlin" height="30" widt"40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="caio-java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  
+   <img align="center" alt="caio-javaScrip" height="30" width="70" src="https://img.shields.io/badge/javascript-blue?logo=javascript">
   
   
 </div>
