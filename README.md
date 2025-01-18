@@ -10,6 +10,6 @@
 | ------------- | ------------- |
 
 ### Tecnologias que eu uso no meu dia dia 
-<div align="center" >
+<div>
   <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,python,java,javascript,kotlin,git,typescript," />
 </div>
