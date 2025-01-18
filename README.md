@@ -10,16 +10,8 @@
 | ------------- | ------------- |
 
 ### Tecnologias que eu uso no meu dia dia 
-
-<div> 
-
-  <img align="center" alt="caio-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="caio-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="caio-pytnon" height="30" widt"40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whiteimg">
-   <img align="center" alt="caio-kotlin" height="30" widt"40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="caio-java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img align="center" alt="caio-javaScrip" height="30" width="70" src="https://img.shields.io/badge/javascript-blue?logo=javascript">
-  
-  
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,python,java,javascript,kotin,git,typescript," />
 </div>
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
