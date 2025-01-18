@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,python,java,javascript,kotlin,git,typescript," />
 </div>
 
-![snake gif](https://github.com/mnscmart/mnscmart/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mnscmart/mnscmart/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mnscmart&repo=mnscmart-&theme=react)]
-(https://github.com/mnscmart/mnscmrat)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mnscmart&repo=mnscmart&theme=react)](https://github.com/mnscmart/mnscmart)
