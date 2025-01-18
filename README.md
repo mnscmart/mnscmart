@@ -11,7 +11,10 @@
 
 ### Tecnologias que eu uso no meu dia dia 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,python,java,javascript,kotin,git,typescript," />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,python,java,javascript,kotlin,git,typescript," />
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mnscmart/mnscmart/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mnscmart&repo=mnscmart-&theme=react)]
+(https://github.com/mnscmart/mnscmrat)
